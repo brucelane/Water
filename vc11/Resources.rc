@@ -1,0 +1,8 @@
+#include "../include/Resources.h"
+
+1	ICON	"..\\resources\\cinder_app_icon.ico"
+RES_TEXTURE	
+RES_PASS_THRU_VERT
+RES_GPGPU_FRAG
+RES_REFRACTION_FRAG
+
